@@ -23,6 +23,12 @@ This will be fed back to the arduino, to improve the growth of the plants during
 - Small breadboard
 - Water bottle
 
+# Gear
+- Standard multimeter(measures current and voltage with 2 probes, also measures temperature and could be connected to a computer using usb)
+- Bakeey UM25C USB2.0 Color LCD Display Type C Voltage Current Cable Resistance Measure Tester (Hope you did not try to pronounce the whole sentence. If so, don't forget to breathe.)
+- Screwdrivers
+- Laptop used to type this..and for programming the arduino.
+
 # Soil
 Coconut Coir
 
@@ -37,4 +43,7 @@ I can now see the status of my self sustaining greenhouse from anywhere in the w
 Soon I can even decide to bless my plants with a splinkle of water while clearing my mind on the beach of any sunny island!
 
 
-# Artificial intelligence ( If's en else's based on certain sensor patterns and best practices..)
+# Artificial intelligence 
+( If's en else's based on certain sensor patterns and best practices..)
+
+Soon more!
