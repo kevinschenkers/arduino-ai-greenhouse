@@ -25,3 +25,16 @@ This will be fed back to the arduino, to improve the growth of the plants during
 
 # Soil
 Coconut Coir
+
+# Internet of things
+Played around with https://dweetpro.io/ , https://temboo.com/ and eventually sticked with https://io.adafruit.com
+Easy to setup with the arduino yun, good looking ui, clear tutorials, free tier plan and affordable to me in the future if I need more.
+
+I setup https://io.adafruit.com and started to add the temperature and humidity sensor, soil moisture sensor, led lights on/off indicator and waterpump. Actually I got stuck after the sensors and the led indicator, adding remote control took me more time to figure out. The Adafruit IO platform offers a good looking personalizable dashboard to show gauges, graphs, indicators and even clickable buttons for remote control of your iot connected device.
+
+The cool thing for me is that the vision starts to become a reality with some bonusses.
+I can now see the status of my self sustaining greenhouse from anywhere in the world :D 
+Soon I can even decide to bless my plants with a splinkle of water while clearing my mind on the beach of any sunny island!
+
+
+# Artificial intelligence ( If's en else's based on certain sensor patterns and best practices..)
